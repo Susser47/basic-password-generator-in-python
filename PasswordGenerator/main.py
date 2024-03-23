@@ -22,4 +22,6 @@ for i in range(caratteri):
 
 print(password)
 
+print()
+
 input("premi invio per chiudere il programma")
